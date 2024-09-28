@@ -9,7 +9,7 @@
         "lint" : "stylelint **/*.css",
         "lintfix" : "stylelint **/*.css --fix"
     },
-    "author": "Gavrilenko Gleb",
+    "author": "Gavrilenko Gleb Vsevolodovich",
     "dependencies": {
         "prettier": "^3.3.3",
         "stylelint": "^16.9.0"
